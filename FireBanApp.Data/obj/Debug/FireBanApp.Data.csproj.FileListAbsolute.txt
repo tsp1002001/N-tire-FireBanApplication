@@ -1,0 +1,7 @@
+C:\D\Praveen\Code\Github\FireMonitor\FireBanApp\FireBanApp.Data\bin\Debug\FireBanApp.Data.dll
+C:\D\Praveen\Code\Github\FireMonitor\FireBanApp\FireBanApp.Data\bin\Debug\FireBanApp.Data.pdb
+C:\D\Praveen\Code\Github\FireMonitor\FireBanApp\FireBanApp.Data\obj\Debug\FireBanApp.Data.dll
+C:\D\Praveen\Code\Github\FireMonitor\FireBanApp\FireBanApp.Data\obj\Debug\FireBanApp.Data.pdb
+C:\D\Praveen\Code\Github\FireMonitor\FireBanApp\FireBanApp.Data\obj\Debug\FireBanApp.Data.csprojResolveAssemblyReference.cache
+C:\D\Praveen\Code\Github\FireMonitor\FireBanApp\FireBanApp.Data\bin\Debug\FireBanApp.Dto.dll
+C:\D\Praveen\Code\Github\FireMonitor\FireBanApp\FireBanApp.Data\bin\Debug\FireBanApp.Dto.pdb
